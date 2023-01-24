@@ -1,3 +1,5 @@
+# SokoNumber
+
 The game is based on the classic Sokoban puzzle game, where players must move numbers around a board to reach their designated goal positions. However, in Soko Number Solver, players are given the added challenge of having to solve the puzzles using specific algorithms.
 
 The DFS algorithm is used in levels where players must find the shortest possible path to the goal, BFS algorithm is used for level where players must explore as many moves as possible before reaching to the goal, and A* algorithm is used for more advanced levels where players must balance speed and efficiency to reach the goal.
